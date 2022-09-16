@@ -1,1 +1,8 @@
 # Global-SuperStore
+Global Superstore is a global online retailer based i n New York, boasting a broad
+product catalog and aiming to be a one-stop-shop for its customers. Global
+Superstore’s clientele, hailing from 147 different countries, can browse through an
+endless offering with more than 10,000 products. This large selection comprises three
+main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology
+(e.g., smartphones).
+The Dataset contains rows and columns

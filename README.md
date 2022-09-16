@@ -5,4 +5,4 @@ Superstore’s clientele, hailing from 147 different countries, can browse throu
 endless offering with more than 10,000 products. This large selection comprises three
 main categories: office supplies (e.g., staples), furniture (e.g., chairs), and technology
 (e.g., smartphones).
-The Dataset contains rows and columns
+The Dataset contains 3 tables. Orders, People and Returns table.
